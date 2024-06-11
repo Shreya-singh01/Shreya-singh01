@@ -1,12 +1,18 @@
-- 👋 Hi, I’m @Shreya-singh01
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi there, I'm Shreya Kumari! 👋
 
-- [![Shreya-singh01's GitHub | Stats](https://stats.quine.sh/Shreya-singh01/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Shreya-singh01)
+## 🌟 About Me
+I'm a passionate software developer with a love for creating impactful solutions. 
+Co-founder of VerveIN (edtech based startup)
+Recently I developed VerveIN's working website and learning new technologies in the field of AI (Machine Learning,ComputerVision,DeepLearning)
 
-<!---
-Shreya-singh01/Shreya-singh01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🔧 Technologies & Tools
+- Programming Languages: JavaScript, Python, C++ , R, Html, Css,Java
+- Frameworks: Bootstrap
+- Tools: Git, Visual Studio Code, Netlify
+
+## 📈 GitHub Stats
+![Shreya's GitHub stats](https://github.com/Shreya-singh01)
+
+## 📫 How to reach me
+- [LinkedIn](https://www.linkedin.com/in/shreya-kumari-2ba266269/)
+- [Email](sshreya.singh054@gmail.com)
