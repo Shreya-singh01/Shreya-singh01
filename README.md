@@ -15,7 +15,7 @@ Recently I developed VerveIN's working website and learning new technologies in 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya-singh01&layout=compact&theme=radical)
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Shreya-singh01&theme=radical)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Shreya-singh01&theme=radical)](https://github.com/Shreya-singh01)
-[![Shreya's Activity Graph](https://activity-graph.herokuapp.com/graph?username=Shreya-singh01&theme=radical)](https://github.com/Shreya-singh01)
+
 
 ## 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/shreya-kumari-2ba266269/)
